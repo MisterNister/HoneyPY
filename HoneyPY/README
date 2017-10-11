@@ -1,10 +1,20 @@
-The Ports That Are Automattically Set Are As Follows "7,9,21,22,23,25,53,80,110,137,138,139,443,1434,8080"
-If You Would Like To Add Or Remove Ports The Line To Do So Is Line 28
-REMEMBER: This Software Can Only Mimic TCP Ports And Does Not Provide Any Sort Of Fake Services Or Login Screens
+# HoneyPY
 
-This Software Was Written In 1 Hour
+HoneyPY is a simple Python based HoneyPot Server
 
-THIS SOFTWARE SHOULD BE FREE OF CHARGE
-IF YOU PAID FOR THIS SOFTWARE YOU HAVE
-BEEN SCAMMED PLEASE READ THROUGH THE CODE
-IF YOU HAVE PAID FOR THIS SOFTWARE
+  - Customisable Ports
+  - 1 Click Startup
+  - Automatically Assigned Ports
+  - 7,9,21,22,23,25,53,80,110,137,138,139,443,1434,8080
+  - Customize Ports On Line 28
+### Todos
+
+ - Add Config Files
+
+License
+----
+
+MIT
+
+
+**Free Software, Hell Yeah!**
