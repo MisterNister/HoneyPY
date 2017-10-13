@@ -18,3 +18,7 @@ MIT
 
 
 **Free Software, Hell Yeah!**
+
+If You Are Feeling Generous Please Donate Bitcoins To
+
+1Jrwa3e1jb4TF4tAbFw9ZsAxnrzDtcrSA5
